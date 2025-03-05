@@ -361,7 +361,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8f12f25d854e1240ae3e17e3e234ef9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  segments:
+  segmentTransforms:
   - {fileID: 573996065}
   - {fileID: 164654247}
   - {fileID: 1263811223}
@@ -369,9 +369,6 @@ MonoBehaviour:
   - {fileID: 1504595057}
   - {fileID: 575406404}
   - {fileID: 595992247}
-  rotationAngle: 90
-  rotationSpeed: 5
-  rotationAxis: {x: 1, y: 0, z: 0}
 --- !u!1001 &773232753604948495
 PrefabInstance:
   m_ObjectHideFlags: 0
